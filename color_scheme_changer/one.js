@@ -15,7 +15,7 @@ buttons.forEach(function(button){
             body.style.backgroundColor = 'blue';
         }    
         if(e.target.id === 'yellow'){
-            body.style.backgroundColor = 'yellowf';
+            body.style.backgroundColor = 'yellow';
         }    
     })  
 })
